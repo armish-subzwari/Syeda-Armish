@@ -1,48 +1,27 @@
-# Syeda-Armish
+# 💫 About Me:
+🔭 I’m currently working on University Management System<br><br>👯 I’m looking to collaborate on C++, QT Creater,MySQL Projects<br><br>👨‍💻 All of my projects are available at https://github.com/armish-subzwari<br><br>💬 Ask me about C++, QT Creater,MySQL anything regarding these.<br><br>📫 How to reach me https://www.linkedin.com/in/syeda-armish-238a1a302/<br><br>📄 Know about my experiences https://drive.google.com/drive/my-drive
 
-<h1 align="center">Hi 👋, I'm Syeda Armish</h1>
-<h3 align="center">A passionate C++ Developer from Pakistan. I work at CloudQuik.</h3>
-<p align "left" alt coding https://eportfolio.utm.my/artefact/file/download.php?file=966367&view=248675&embedded=1&text=964321> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaarmish&label=Profile%20views&color=0e75b6&style=flat" alt="syedaarmish" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armish-subzwari) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Syeda Armish Subzwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedaarmish55@gmail.com) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedaarmish" alt="syedaarmish" /></a> </p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=armish-subzwari&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=armish-subzwari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=armish-subzwari&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **University Management System**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=armish-subzwari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 I’m looking to collaborate on **C++, QT Creater,MySQL Projects**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍💻 All of my projects are available at [https://github.com/armish-subzwari](https://github.com/armish-subzwari)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=armish-subzwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **C++, QT Creater,MySQL anything regarding these.**
+---
+[![](https://visitcount.itsvg.in/api?id=armish-subzwari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **https://www.linkedin.com/in/syeda-armish-238a1a302/**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syeda armish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda armish" height="30" width="40" /></a>
-<a href="https://instagram.com/armish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armish" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedaarmish&show_icons=true&locale=en&layout=compact" alt="syedaarmish" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedaarmish&show_icons=true&locale=en" alt="syedaarmish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedaarmish&" alt="syedaarmish" /></p>
-**Notes**
-
-- [About digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
-- [How to set up your own digital garden](https://nesslabs.com/digital-garden-set-up#:~:text=A%20digital%20garden%20is%20an,to%20be%20cultivated%20in%20public.)
-- [Maggie Appleton\'s digital garden](https://maggieappleton.com/garden)
-- [Tom Critchlow\'s digital garden](https://tomcritchlow.com/wiki/)
-- [Joel Hook\'s digital garden](https://joelhooks.com/digital-garden)
-
-**Colophon**
-- Hugo
-- [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
