@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Syeda Armish</h1>
 <h3 align="center">A passionate C++ Developer from Pakistan. I work at CloudQuik.</h3>
-**https://eportfolio.utm.my/artefact/file/download.php?file=966367&view=248675&embedded=1&text=964321**
+<p align "left" alt coding https://eportfolio.utm.my/artefact/file/download.php?file=966367&view=248675&embedded=1&text=964321> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaarmish&label=Profile%20views&color=0e75b6&style=flat" alt="syedaarmish" /> </p>
 
@@ -34,3 +34,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedaarmish&show_icons=true&locale=en" alt="syedaarmish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedaarmish&" alt="syedaarmish" /></p>
+**Notes**
+
+- [About digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
+- [How to set up your own digital garden](https://nesslabs.com/digital-garden-set-up#:~:text=A%20digital%20garden%20is%20an,to%20be%20cultivated%20in%20public.)
+- [Maggie Appleton\'s digital garden](https://maggieappleton.com/garden)
+- [Tom Critchlow\'s digital garden](https://tomcritchlow.com/wiki/)
+- [Joel Hook\'s digital garden](https://joelhooks.com/digital-garden)
+
+**Colophon**
+- Hugo
+- [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod)
+
