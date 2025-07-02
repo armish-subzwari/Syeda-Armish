@@ -1,5 +1,5 @@
 # Syeda-Armish
-<h1 align="center">Hi 👋, I'm syedaarmish</h1>
+<h1 align="center">Hi 👋, I'm Syeda Armish</h1>
 <h3 align="center">A passionate C++ Developer from Pakistan. I work at CloudQuik.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaarmish&label=Profile%20views&color=0e75b6&style=flat" alt="syedaarmish" /> </p>
